@@ -1,0 +1,12 @@
+Package: imeassures
+Type: Package
+Title: 
+Version: 0.1.0
+Author: Ana Miranda
+Maintainer: The package maintainer <aniusk898@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
